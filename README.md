@@ -58,3 +58,5 @@
 
 
 # 게임 플레이 영상
+
+[![Video](https://img.youtube.com/vi/C7yEZ5KVEO0/0.jpg)](https://youtu.be/C7yEZ5KVEO0)
